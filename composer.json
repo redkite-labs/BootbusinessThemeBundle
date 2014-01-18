@@ -25,6 +25,5 @@
     "psr-0": { "RedKiteCms\\Theme\\BootbusinessThemeBundle": ""
     }
   },
-  "target-dir" : "RedKiteCms/Theme/BootbusinessThemeBundle",
-  "minimum-stability": "dev"
+  "target-dir" : "RedKiteCms/Theme/BootbusinessThemeBundle"
 }
